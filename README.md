@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Gnaroshi?style=for-the-badge&logo=github&color=181717&labelColor=0d1117)](https://github.com/Gnaroshi)
 [![Profile views](https://komarev.com/ghpvc/?username=Gnaroshi&style=for-the-badge&color=70a5fd)](https://github.com/Gnaroshi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR_LEETCODE_USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Gnaroshi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Gnaroshi)
 
 </div>
 
@@ -21,3 +21,81 @@ Name        : Mingyu Jung
 Focus       : AI, Software Engineering, Problem Solving
 Interest    : Deep Learning, LLMs, Backend, Algorithms
 Mindset     : Learn deeply, build steadily, improve continuously
+```
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript" />
+
+### AI / Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+
+### Backend / Web
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,html,css" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gnaroshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnaroshi&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Gnaroshi&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gnaroshi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" />
+
+</div>
+
+---
+
+## 🧩 LeetCode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Gnaroshi?theme=dark&font=Noto%20Sans%20KR&ext=heatmap)](https://leetcode.com/Gnaroshi)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Gnaroshi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gnaroshi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Gnaroshi)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=160&section=footer)
+
+</div>
