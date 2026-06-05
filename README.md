@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Gnaroshi?style=for-the-badge&logo=github&color=181717&labelColor=0d1117)](https://github.com/Gnaroshi)
 [![Profile views](https://komarev.com/ghpvc/?username=Gnaroshi&style=for-the-badge&color=70a5fd)](https://github.com/Gnaroshi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Gnaroshi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Gnaroshi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gnaroshi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gnaroshi/)
 
 </div>
 
@@ -49,26 +49,21 @@ Mindset     : Learn deeply, build steadily, improve continuously
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gnaroshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnaroshi&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gnaroshi&theme=tokyonight" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Gnaroshi&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gnaroshi&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gnaroshi&theme=tokyonight" />
 
-</div>
+<br/><br/>
 
----
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gnaroshi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gnaroshi&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gnaroshi&theme=tokyonight&utcOffset=9" />
 
 </div>
 
@@ -78,7 +73,7 @@ Mindset     : Learn deeply, build steadily, improve continuously
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Gnaroshi?theme=dark&font=Noto%20Sans%20KR&ext=heatmap)](https://leetcode.com/Gnaroshi)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gnaroshi?theme=dark&font=Noto%20Sans%20KR&ext=heatmap)](https://leetcode.com/u/gnaroshi/)
 
 </div>
 
@@ -88,7 +83,7 @@ Mindset     : Learn deeply, build steadily, improve continuously
 
 <div align="center">
 
-[![Gnaroshi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gnaroshi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Gnaroshi)
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gnaroshi&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
